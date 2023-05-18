@@ -1,0 +1,21 @@
+.flex-search {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  height:20%;
+}
+.flex-container {
+    display: flex;
+    align-items: flex-start;
+    background-color: dodgerblue;
+    flex-wrap: wrap;
+    height: 80%;
+
+  }
+  .flex-item {
+    background-color: #f1f1f1;
+    height: 50px;
+    margin: 10px;
+    width: 200px;
+    padding: 10px;
+  }
